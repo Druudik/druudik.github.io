@@ -1,0 +1,1362 @@
+{
+  "brushes": {
+    "rectangle": {
+      "paintings": [
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_6",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "title": "Girl with a Pearl Earring",
+          "order": 1,
+          "progression": [
+            "assets/rectangle/painting_results/results_6/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_6/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_6/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_0",
+          "target_image": "apple.jpg",
+          "title": "Apples",
+          "order": 2,
+          "progression": [
+            "assets/rectangle/painting_results/results_0/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_0/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_0/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_10",
+          "target_image": "iceland.jpg",
+          "title": "Kirkjufell, Iceland",
+          "order": 3,
+          "progression": [
+            "assets/rectangle/painting_results/results_10/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_10/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_10/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_14",
+          "target_image": "mona_lisa.jpg",
+          "title": "Mona Lisa",
+          "order": 4,
+          "progression": [
+            "assets/rectangle/painting_results/results_14/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_14/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_14/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_8",
+          "target_image": "great_wave.jpg",
+          "title": "The Great Wave off Kanagawa",
+          "order": 5,
+          "progression": [
+            "assets/rectangle/painting_results/results_8/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_8/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_8/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_13",
+          "target_image": "sunflowers.jpg",
+          "title": "Sunflowers",
+          "order": 6,
+          "progression": [
+            "assets/rectangle/painting_results/results_13/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_13/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_13/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_4",
+          "target_image": "fire.jpg",
+          "title": "Campfire",
+          "order": 7,
+          "progression": [
+            "assets/rectangle/painting_results/results_4/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_4/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_4/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_12",
+          "target_image": "joker.jpg",
+          "title": "Joker",
+          "order": 8,
+          "progression": [
+            "assets/rectangle/painting_results/results_12/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_12/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_12/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "rectangle",
+          "type": "painting",
+          "path": "assets/rectangle/painting_results/results_15",
+          "target_image": "yosemite.jpg",
+          "title": "Yosemite Falls",
+          "order": 9,
+          "progression": [
+            "assets/rectangle/painting_results/results_15/painted_canvas_5.jpg",
+            "assets/rectangle/painting_results/results_15/painted_canvas_50.jpg"
+          ],
+          "final_image": "assets/rectangle/painting_results/results_15/painted_canvas_all.jpg",
+          "has_video": true
+        }
+      ],
+      "styles": [
+        {
+          "brush": "rectangle",
+          "type": "style",
+          "path": "assets/rectangle/style_painting_results/target_0/style_2",
+          "target_image": "sunflowers.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Covered Alley in Atrani",
+          "order": 1,
+          "progression": [],
+          "final_image": "assets/rectangle/style_painting_results/target_0/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "rectangle",
+          "type": "style",
+          "path": "assets/rectangle/style_painting_results/target_0/style_0",
+          "target_image": "sunflowers.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 2,
+          "progression": [],
+          "final_image": "assets/rectangle/style_painting_results/target_0/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "rectangle",
+          "type": "style",
+          "path": "assets/rectangle/style_painting_results/target_9/style_2",
+          "target_image": "apple.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Apples",
+          "style_title": "Covered Alley in Atrani",
+          "order": 3,
+          "progression": [],
+          "final_image": "assets/rectangle/style_painting_results/target_9/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        }
+      ]
+    },
+    "texture": {
+      "paintings": [
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_8",
+          "target_image": "great_wave.jpg",
+          "title": "The Great Wave off Kanagawa",
+          "order": 1,
+          "progression": [
+            "assets/texture/painting_results/results_8/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_8/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_8/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_8/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_15",
+          "target_image": "yosemite.jpg",
+          "title": "Yosemite Falls",
+          "order": 2,
+          "progression": [
+            "assets/texture/painting_results/results_15/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_15/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_15/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_15/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_0",
+          "target_image": "apple.jpg",
+          "title": "Apples",
+          "order": 3,
+          "progression": [
+            "assets/texture/painting_results/results_0/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_0/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_0/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_0/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_9",
+          "target_image": "scream.jpg",
+          "title": "The Scream",
+          "order": 4,
+          "progression": [
+            "assets/texture/painting_results/results_9/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_9/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_9/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_9/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_6",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "title": "Girl with a Pearl Earring",
+          "order": 5,
+          "progression": [
+            "assets/texture/painting_results/results_6/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_6/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_6/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_6/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_12",
+          "target_image": "joker.jpg",
+          "title": "Joker",
+          "order": 6,
+          "progression": [
+            "assets/texture/painting_results/results_12/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_12/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_12/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_12/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_14",
+          "target_image": "mona_lisa.jpg",
+          "title": "Mona Lisa",
+          "order": 7,
+          "progression": [
+            "assets/texture/painting_results/results_14/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_14/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_14/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_14/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_13",
+          "target_image": "sunflowers.jpg",
+          "title": "Sunflowers",
+          "order": 8,
+          "progression": [
+            "assets/texture/painting_results/results_13/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_13/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_13/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_13/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_10",
+          "target_image": "iceland.jpg",
+          "title": "Kirkjufell, Iceland",
+          "order": 9,
+          "progression": [
+            "assets/texture/painting_results/results_10/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_10/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_10/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_10/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_4",
+          "target_image": "fire.jpg",
+          "title": "Campfire",
+          "order": 10,
+          "progression": [
+            "assets/texture/painting_results/results_4/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_4/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_4/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_4/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_7",
+          "target_image": "rocky_mountains.jpg",
+          "title": "The Rocky Mountains, Lander's Peak",
+          "order": 11,
+          "progression": [
+            "assets/texture/painting_results/results_7/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_7/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_7/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_7/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_5",
+          "target_image": "picasso.jpg",
+          "title": "Picasso",
+          "order": 12,
+          "progression": [
+            "assets/texture/painting_results/results_5/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_5/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_5/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_5/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "texture",
+          "type": "painting",
+          "path": "assets/texture/painting_results/results_3",
+          "target_image": "mosaic.jpg",
+          "title": "Mosaic",
+          "order": 13,
+          "progression": [
+            "assets/texture/painting_results/results_3/painted_canvas_5.jpg",
+            "assets/texture/painting_results/results_3/painted_canvas_50.jpg",
+            "assets/texture/painting_results/results_3/painted_canvas_500.jpg"
+          ],
+          "final_image": "assets/texture/painting_results/results_3/painted_canvas_all.jpg",
+          "has_video": true
+        }
+      ],
+      "styles": [
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_3",
+          "target_image": "sunflowers.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Picasso",
+          "order": 1,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_6/style_1",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "Simultaneous Contrasts",
+          "order": 2,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_6/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_2/style_4",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "The Scream",
+          "order": 3,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_2/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_5/style_1",
+          "target_image": "iceland.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Simultaneous Contrasts",
+          "order": 4,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_5/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_4/style_5",
+          "target_image": "fire.jpg",
+          "style_image": "mosaic.jpg",
+          "target_title": "Campfire",
+          "style_title": "Mosaic",
+          "order": 5,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_4/style_5/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_5/style_4",
+          "target_image": "iceland.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "The Scream",
+          "order": 6,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_5/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_5/style_0",
+          "target_image": "iceland.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 7,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_5/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_5",
+          "target_image": "sunflowers.jpg",
+          "style_image": "mosaic.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Mosaic",
+          "order": 8,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_5/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_0",
+          "target_image": "sunflowers.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 9,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_3/style_0",
+          "target_image": "great_wave.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "The Great Wave off Kanagawa",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 10,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_3/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_2/style_2",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Covered Alley in Atrani",
+          "order": 11,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_2/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_2/style_3",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Picasso",
+          "order": 12,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_2/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_9/style_3",
+          "target_image": "apple.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Apples",
+          "style_title": "Picasso",
+          "order": 13,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_9/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_6/style_0",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 14,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_6/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_1",
+          "target_image": "sunflowers.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Simultaneous Contrasts",
+          "order": 15,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_2/style_0",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 16,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_2/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_4",
+          "target_image": "sunflowers.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "The Scream",
+          "order": 17,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_1/style_4",
+          "target_image": "yosemite.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Yosemite Falls",
+          "style_title": "The Scream",
+          "order": 18,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_1/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_6/style_5",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "mosaic.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "Mosaic",
+          "order": 19,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_6/style_5/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_2/style_1",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Simultaneous Contrasts",
+          "order": 20,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_2/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_4/style_0",
+          "target_image": "fire.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Campfire",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 21,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_4/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_4/style_4",
+          "target_image": "fire.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Campfire",
+          "style_title": "The Scream",
+          "order": 22,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_4/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_5/style_2",
+          "target_image": "iceland.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Covered Alley in Atrani",
+          "order": 23,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_5/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_4/style_1",
+          "target_image": "fire.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Campfire",
+          "style_title": "Simultaneous Contrasts",
+          "order": 24,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_4/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_6/style_4",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "The Scream",
+          "order": 25,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_6/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_5/style_3",
+          "target_image": "iceland.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Picasso",
+          "order": 26,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_5/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_9/style_4",
+          "target_image": "apple.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Apples",
+          "style_title": "The Scream",
+          "order": 27,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_9/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_4/style_2",
+          "target_image": "fire.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Campfire",
+          "style_title": "Covered Alley in Atrani",
+          "order": 28,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_4/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_3/style_2",
+          "target_image": "great_wave.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "The Great Wave off Kanagawa",
+          "style_title": "Covered Alley in Atrani",
+          "order": 29,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_3/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "texture",
+          "type": "style",
+          "path": "assets/texture/style_painting_results/target_0/style_2",
+          "target_image": "sunflowers.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Covered Alley in Atrani",
+          "order": 30,
+          "progression": [],
+          "final_image": "assets/texture/style_painting_results/target_0/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        }
+      ]
+    },
+    "watercolor": {
+      "paintings": [
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_9",
+          "target_image": "scream.jpg",
+          "title": "The Scream",
+          "order": 1,
+          "progression": [
+            "assets/watercolor/painting_results/results_9/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_9/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_9/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_9/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_0",
+          "target_image": "apple.jpg",
+          "title": "Apples",
+          "order": 2,
+          "progression": [
+            "assets/watercolor/painting_results/results_0/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_0/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_0/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_0/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_6",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "title": "Girl with a Pearl Earring",
+          "order": 3,
+          "progression": [
+            "assets/watercolor/painting_results/results_6/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_6/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_6/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_6/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_8",
+          "target_image": "great_wave.jpg",
+          "title": "The Great Wave off Kanagawa",
+          "order": 4,
+          "progression": [
+            "assets/watercolor/painting_results/results_8/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_8/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_8/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_8/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_14",
+          "target_image": "mona_lisa.jpg",
+          "title": "Mona Lisa",
+          "order": 5,
+          "progression": [
+            "assets/watercolor/painting_results/results_14/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_14/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_14/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_14/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_5",
+          "target_image": "picasso.jpg",
+          "title": "Picasso",
+          "order": 6,
+          "progression": [
+            "assets/watercolor/painting_results/results_5/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_5/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_5/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_5/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_2",
+          "target_image": "escher_woodcut.jpg",
+          "title": "Covered Alley in Atrani",
+          "order": 7,
+          "progression": [
+            "assets/watercolor/painting_results/results_2/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_2/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_2/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_2/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_15",
+          "target_image": "yosemite.jpg",
+          "title": "Yosemite Falls",
+          "order": 8,
+          "progression": [
+            "assets/watercolor/painting_results/results_15/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_15/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_15/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_15/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_10",
+          "target_image": "iceland.jpg",
+          "title": "Kirkjufell, Iceland",
+          "order": 9,
+          "progression": [
+            "assets/watercolor/painting_results/results_10/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_10/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_10/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_10/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_12",
+          "target_image": "joker.jpg",
+          "title": "Joker",
+          "order": 10,
+          "progression": [
+            "assets/watercolor/painting_results/results_12/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_12/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_12/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_12/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_4",
+          "target_image": "fire.jpg",
+          "title": "Campfire",
+          "order": 11,
+          "progression": [
+            "assets/watercolor/painting_results/results_4/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_4/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_4/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_4/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_13",
+          "target_image": "sunflowers.jpg",
+          "title": "Sunflowers",
+          "order": 12,
+          "progression": [
+            "assets/watercolor/painting_results/results_13/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_13/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_13/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_13/painted_canvas_all.jpg",
+          "has_video": true
+        },
+        {
+          "brush": "watercolor",
+          "type": "painting",
+          "path": "assets/watercolor/painting_results/results_7",
+          "target_image": "rocky_mountains.jpg",
+          "title": "The Rocky Mountains, Lander's Peak",
+          "order": 13,
+          "progression": [
+            "assets/watercolor/painting_results/results_7/painted_canvas_5.jpg",
+            "assets/watercolor/painting_results/results_7/painted_canvas_50.jpg",
+            "assets/watercolor/painting_results/results_7/painted_canvas_200.jpg"
+          ],
+          "final_image": "assets/watercolor/painting_results/results_7/painted_canvas_all.jpg",
+          "has_video": true
+        }
+      ],
+      "styles": [
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_1",
+          "target_image": "sunflowers.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Simultaneous Contrasts",
+          "order": 1,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_6/style_0",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 2,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_6/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_3",
+          "target_image": "sunflowers.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Picasso",
+          "order": 3,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_1/style_1",
+          "target_image": "yosemite.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Yosemite Falls",
+          "style_title": "Simultaneous Contrasts",
+          "order": 4,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_1/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_2/style_0",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 5,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_2/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_1/style_5",
+          "target_image": "yosemite.jpg",
+          "style_image": "mosaic.jpg",
+          "target_title": "Yosemite Falls",
+          "style_title": "Mosaic",
+          "order": 6,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_1/style_5/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_0",
+          "target_image": "sunflowers.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 7,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_4/style_0",
+          "target_image": "fire.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Campfire",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 8,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_4/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_5",
+          "target_image": "sunflowers.jpg",
+          "style_image": "mosaic.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Mosaic",
+          "order": 9,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_5/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_4",
+          "target_image": "sunflowers.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "The Scream",
+          "order": 10,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_1/style_4",
+          "target_image": "yosemite.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Yosemite Falls",
+          "style_title": "The Scream",
+          "order": 11,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_1/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_2/style_3",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Picasso",
+          "order": 12,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_2/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_9/style_1",
+          "target_image": "apple.jpg",
+          "style_image": "simultaneous_contrasts.jpg",
+          "target_title": "Apples",
+          "style_title": "Simultaneous Contrasts",
+          "order": 13,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_9/style_1/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_2/style_4",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "The Scream",
+          "order": 14,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_2/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_9/style_0",
+          "target_image": "apple.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "Apples",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 15,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_9/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_6/style_3",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "Picasso",
+          "order": 16,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_6/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_3/style_0",
+          "target_image": "great_wave.jpg",
+          "style_image": "mondriaan_composition.jpg",
+          "target_title": "The Great Wave off Kanagawa",
+          "style_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+          "order": 17,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_3/style_0/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_6/style_4",
+          "target_image": "girl_with_a_pearl_earring.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Girl with a Pearl Earring",
+          "style_title": "The Scream",
+          "order": 18,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_6/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_5/style_3",
+          "target_image": "iceland.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Picasso",
+          "order": 19,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_5/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_4/style_2",
+          "target_image": "fire.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Campfire",
+          "style_title": "Covered Alley in Atrani",
+          "order": 20,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_4/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_4/style_3",
+          "target_image": "fire.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Campfire",
+          "style_title": "Picasso",
+          "order": 21,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_4/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_4/style_4",
+          "target_image": "fire.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Campfire",
+          "style_title": "The Scream",
+          "order": 22,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_4/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_5/style_2",
+          "target_image": "iceland.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "Covered Alley in Atrani",
+          "order": 23,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_5/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_5/style_4",
+          "target_image": "iceland.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Kirkjufell, Iceland",
+          "style_title": "The Scream",
+          "order": 24,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_5/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_3/style_4",
+          "target_image": "great_wave.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "The Great Wave off Kanagawa",
+          "style_title": "The Scream",
+          "order": 25,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_3/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_9/style_3",
+          "target_image": "apple.jpg",
+          "style_image": "picasso.jpg",
+          "target_title": "Apples",
+          "style_title": "Picasso",
+          "order": 26,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_9/style_3/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_9/style_4",
+          "target_image": "apple.jpg",
+          "style_image": "scream.jpg",
+          "target_title": "Apples",
+          "style_title": "The Scream",
+          "order": 27,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_9/style_4/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_0/style_2",
+          "target_image": "sunflowers.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Sunflowers",
+          "style_title": "Covered Alley in Atrani",
+          "order": 28,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_0/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        },
+        {
+          "brush": "watercolor",
+          "type": "style",
+          "path": "assets/watercolor/style_painting_results/target_2/style_2",
+          "target_image": "mona_lisa.jpg",
+          "style_image": "escher_woodcut.jpg",
+          "target_title": "Mona Lisa",
+          "style_title": "Covered Alley in Atrani",
+          "order": 29,
+          "progression": [],
+          "final_image": "assets/watercolor/style_painting_results/target_2/style_2/stylized_painted_canvas_all.jpg",
+          "has_video": false
+        }
+      ]
+    }
+  },
+  "image_titles": {
+    "apple.jpg": "Apples",
+    "escher_woodcut.jpg": "Covered Alley in Atrani",
+    "fire.jpg": "Campfire",
+    "girl_with_a_pearl_earring.jpg": "Girl with a Pearl Earring",
+    "great_wave.jpg": "The Great Wave off Kanagawa",
+    "iceland.jpg": "Kirkjufell, Iceland",
+    "joker.jpg": "Joker",
+    "mona_lisa.jpg": "Mona Lisa",
+    "mondriaan_composition.jpg": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+    "mosaic.jpg": "Mosaic",
+    "picasso.jpg": "Picasso",
+    "rocky_mountains.jpg": "The Rocky Mountains, Lander's Peak",
+    "scream.jpg": "The Scream",
+    "simultaneous_contrasts.jpg": "Simultaneous Contrasts",
+    "sunflowers.jpg": "Sunflowers",
+    "yosemite.jpg": "Yosemite Falls"
+  }
+}
