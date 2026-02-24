@@ -456,6 +456,7 @@ body::before {
   background: rgba(5, 4, 3, 0.94);
   z-index: 10000;
   overflow-y: auto;
+  overflow-x: hidden;
   display: none;
 }
 
@@ -817,6 +818,12 @@ body::before {
 
 /* ===== RESPONSIVE ===== */
 
+@media (max-width: 1024px) {
+  .painting-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 768px) {
   .highlights {
     grid-template-columns: 1fr;
@@ -842,7 +849,13 @@ body::before {
     padding: 0.5rem 1.2rem;
   }
 
+  .brush-tab,
+  .sub-tab {
+    min-height: 44px;
+  }
+
   .painting-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.5rem;
   }
 
@@ -851,6 +864,12 @@ body::before {
     padding: 0 1rem;
     margin-top: 1rem;
     justify-content: center;
+  }
+
+  .detail-tab {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
   }
 
   .detail-layout {
@@ -864,8 +883,16 @@ body::before {
   }
 
   .detail-nav {
-    font-size: 1.8rem;
-    padding: 0.5rem;
+    font-size: 2rem;
+    padding: 0.75rem;
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  .detail-close {
+    padding: 0.75rem;
+    min-width: 44px;
+    min-height: 44px;
   }
 
   .detail-prev {
@@ -877,11 +904,33 @@ body::before {
   }
 
   .detail-main-image {
+    max-width: 100%;
     max-height: 50vh;
+    width: auto;
   }
 
   .video-poster-container {
     max-height: 50vh;
+  }
+
+  .detail-right {
+    overflow: visible;
+  }
+
+  .detail-source {
+    position: static;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .source-block {
+    flex: 1;
+    min-height: 0;
+    max-height: 30vh;
+  }
+
+  .source-image {
+    max-height: 30vh;
   }
 }
 
@@ -890,12 +939,8 @@ body::before {
     padding: 3rem 1rem 2rem;
   }
 
-  .highlights-stack .painting-card:nth-child(3) {
-    display: none;
-  }
-
-  .painting-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .highlights-stack {
+    flex-direction: column;
   }
 
   .brush-tabs {
@@ -905,5 +950,9 @@ body::before {
   .brush-tab {
     padding: 0.5rem 0.8rem;
     font-size: 0.9rem;
+  }
+
+  .gallery-intro-title {
+    font-size: 1.6rem;
   }
 }
